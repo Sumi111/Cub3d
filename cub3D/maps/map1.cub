@@ -1,0 +1,14 @@
+SO ./textures/redborder.xpm
+EA	./textures/wood.xpm
+NO  ./textures/eagle.xpm
+WE ./textures/redbrick.xpm
+
+C 135,206,235
+F 34,139,34
+
+       1
+11111110111111111111
+10000001
+10000001
+1000N001
+11111111
